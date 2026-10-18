@@ -1,0 +1,5 @@
+ryzen, OK
+intel, OK
+dgx, OVERLIMIT
+
+total overlimits: 1
