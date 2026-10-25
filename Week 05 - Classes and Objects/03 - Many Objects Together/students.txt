@@ -1,0 +1,4 @@
+Ali, 50, 82
+Daniel, 34, 78
+Siddhant, 90, 90
+Alex, 100, 66
