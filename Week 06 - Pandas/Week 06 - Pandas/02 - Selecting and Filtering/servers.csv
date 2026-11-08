@@ -1,0 +1,7 @@
+server,total,used,region,percent
+srv-01,100,95,east,40.0
+srv-02,120,110,north,41.66666666666667
+srv-03,140,135,west,42.857142857142854
+srv-04,160,70,north,43.75
+srv-05,180,165,north,44.44444444444444
+srv-06,200,90,south,45.0
